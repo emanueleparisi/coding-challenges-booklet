@@ -1,0 +1,8 @@
+[package]
+name = "coding-challenges-booklet"
+version = "0.0.0"
+edition = "2021"
+
+[[bin]]
+name = "01_factorial_finder"
+path = "src/01_factorial_finder/main.rs"
