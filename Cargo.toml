@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "01_factorial_finder"
 path = "src/01_factorial_finder/main.rs"
+
+[[bin]]
+name = "02_speed_tracker"
+path = "src/02_speed_tracker/main.rs"
